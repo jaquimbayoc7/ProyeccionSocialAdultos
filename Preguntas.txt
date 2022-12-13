@@ -1,0 +1,3 @@
+P1. La Informática es:	P2. ¿Qué es el software?	P3. Los partes de una computador son:	P4. ¿Qué es el sistema operativo?	P5. ¿Qué es una carpeta?	P6. ¿Qué es Nequi?	P7. ¿Qué es Daviplata?	P8. ¿Como realizar un pago por PSE?	P9. ¿Como realizar una vídeo llamada hacia un contacto en WhatsApp?	P10. De acuerdo a las siguientes aplicaciones, ¿cuál aplicación se considera de mensajería instantánea?
+
+PP5. Indique su edad:	PP6. Seleccione su género:	PP7.  Indique su estrato socioeconómico del siguiente listado:	PP8. Indique su último nivel de escolaridad: 
