@@ -1,3 +1,29 @@
 P1. La Informática es:	P2. ¿Qué es el software?	P3. Los partes de una computador son:	P4. ¿Qué es el sistema operativo?	P5. ¿Qué es una carpeta?	P6. ¿Qué es Nequi?	P7. ¿Qué es Daviplata?	P8. ¿Como realizar un pago por PSE?	P9. ¿Como realizar una vídeo llamada hacia un contacto en WhatsApp?	P10. De acuerdo a las siguientes aplicaciones, ¿cuál aplicación se considera de mensajería instantánea?
 
 PP5. Indique su edad:	PP6. Seleccione su género:	PP7.  Indique su estrato socioeconómico del siguiente listado:	PP8. Indique su último nivel de escolaridad: 
+
+P1. La Informática es:
+3. Ciencia que estudia la gestión de información con medios electrónicos(correcta)
+2. Ciencia que estudia el funcionamiento del computador
+1. Ciencia que estudia el uso de internet
+
+P2. ¿Qué es el software?:
+1. Parte física de la computadora
+2. Parte tangible de la computadora
+3. Conjunto de programas de la computadora (correcta)
+
+P3. Las partes de una computador son:
+3. Hardware y Software
+2. Pantalla, Torre o CPU, Teclado y Mouse (correcta)
+1. Monitor y CPU
+
+P5. ¿Qué es una carpeta?:
+1. Es un icono amarillo
+3. Es un cuaderno donde se guarda informacion
+2. Es el contenedor de archivos, e incluso el contenedor de mismas carpetas.(correcta)
+
+PP5. Indique su edad:
+
+PP6. Seleccione su género:
+1. Masculino
+2. Femenino
